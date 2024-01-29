@@ -27,7 +27,7 @@ A simple and elegant currency converter web application with a user-friendly int
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/anshkhandelwal12/currency-converter.git
 
    
 
